@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* nav relate styles */
+
+.nav-section{
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  padding:50px 0;
+}
+.nav-section ul{
+  display: flex;
+  list-style: none;
+  font-size: 20px;
+}
+.nav-section li a{
+  text-decoration: none;
+  margin-left: 120px;
+  color: black;
+}
+.nav-titel{
+  font-size: 45px;
+}
+.nav-section .button{
+  background-color: #FD6E0A;
+  padding: 18px 35px;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+
+/* header reletad styles */
+.header{
+  background-color: #FFF8F3;
+  height: 800px;
+}
